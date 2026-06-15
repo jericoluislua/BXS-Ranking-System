@@ -1,5 +1,5 @@
 # BXS-Ranking-System
-A BXS-specific tool for calculating player/blader rankings.
+A temporary tool for calculating player/blader rankings until the BXS website is created.
 
 This is the current point calculation and may be updated depending on circumstances and changes to the ranking system.
 
